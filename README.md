@@ -11,5 +11,5 @@
 </div>
 
 <div>
-  <img align="left" alt="Hollow Knight" src="https://icons8.com.br/icon/iTkwwwqdX4t6/cavaleiro-oco"/>
+  <img align="left" alt="Hollow Knight" src="https://img.icons8.com/?size=100&id=iTkwwwqdX4t6&format=png&color=000000"/>
 </div>
